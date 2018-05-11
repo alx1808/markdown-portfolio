@@ -1,7 +1,7 @@
 1. My first item
-2. her is my second
-        1. with an indentation
-        2. of 8 spaces
+1. here is my second
+    1. with an indentation
+    1. of 4 spaces
 
 * an unordered list
 * with asterisk
